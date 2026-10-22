@@ -1,0 +1,6 @@
+{
+  "name": "GharGlow Boutique",
+  "description": "Luxurious handcrafted candle boutique and pure-ghee ful vatis for the moments that make a place feel like home.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
